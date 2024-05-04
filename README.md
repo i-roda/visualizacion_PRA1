@@ -26,7 +26,7 @@ Contiene los datasets y codebooks originales, así como el dataset final y su co
 - `pra1_visualizacion_codebook.csv`: Codebook del dataset final.
 
 ### Source
-Incluye el script en Python y el Notebook de Jupyter que realizan el procesamiento de datos:
+Incluye el script en Python y el notebook de Jupyter que realizan el procesamiento de datos:
 - `PRA1_Visualizacion.py`: Script Python que genera el dataset final y su codebook.
 - `PRA1_Visualizacion.ipynb`: Notebook de Jupyter que permite visualizar paso a paso el mismo proceso.
 
